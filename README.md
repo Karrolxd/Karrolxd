@@ -17,15 +17,15 @@
 <!-- GitHub stats -->
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Karol&show_icons=true&theme=dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=Karrolxd&show_icons=true&theme=dark&hide_border=true"
     alt="Karol's GitHub stats"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Karol&theme=dark&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Karrolxd&theme=dark&hide_border=true"
     alt="GitHub streak"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karol&layout=compact&theme=dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karrolxd&layout=compact&theme=dark&hide_border=true"
     alt="Top languages"
   />
 </div>
@@ -34,11 +34,14 @@
 ### 👷‍♂️ Current Projects
 | Project | What’s cooking? | Status |
 |---------|-----------------|--------|
-| **MedTrack** | Web app for tracking medical data & appointments | 🛠 _Active • Link coming soon_ |
+| **MedTrack** | Web app for tracking medical data & appointments | 🛠 _Active • [**MedTrack**](https://github.com/Karrolxd/MedTrack) |
 | **Company HR Docs** | Internal platform for HR & document management | 🔬 Prototype |
+| **Pixel-Position** | Job-board profile where I’m sharpening Laravel & PHP skills | 🌱 _Learning • [**Pixel-Position**](https://github.com/Karrolxd/pixel-position) |
 
-<!-- (add your repo link)  Replace the underscore in MedTrack row with  -->
-<!--   [**MedTrack**](https://github.com/TWOJ_NICK/medtrack)              -->
+<!-- (add your repo link)  
+     Replace the underscore in each row with something like:
+     [**Pixel-Position**](https://github.com/TWOJ_NICK/pixel-position)           -->
+
 
 <!-- Interests with GIFs -->
 ### 🍕 & 🌊 When I’m not coding
