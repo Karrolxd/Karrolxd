@@ -36,7 +36,7 @@
 |---------|-----------------|--------|
 | **MedTrack** | Web app for tracking medical data & appointments | 🛠 _Active • [**MedTrack**](https://github.com/Karrolxd/MedTrack) |
 | **Company HR Docs** | Internal platform for HR & document management | 🔬 Prototype |
-| **Pixel-Position** | Job-board profile where I’m sharpening Laravel & PHP skills | 🌱 _Learning • [**Pixel-Position**](https://github.com/Karrolxd/pixel-position) |
+| **Pixel-Positions** | Job-board profile where I’m sharpening Laravel & PHP skills | 🌱 _Learning • [**Pixel-Positions**](https://github.com/Karrolxd/pixel-positions) |
 
 
 <!-- Interests with GIFs -->
