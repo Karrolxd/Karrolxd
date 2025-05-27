@@ -38,16 +38,14 @@
 | **Company HR Docs** | Internal platform for HR & document management | 🔬 Prototype |
 | **Pixel-Position** | Job-board profile where I’m sharpening Laravel & PHP skills | 🌱 _Learning • [**Pixel-Position**](https://github.com/Karrolxd/pixel-position) |
 
-<!-- (add your repo link)  
-     Replace the underscore in each row with something like:
-     [**Pixel-Position**](https://github.com/TWOJ_NICK/pixel-position)           -->
-
 
 <!-- Interests with GIFs -->
 ### 🍕 & 🌊 When I’m not coding
 <div align="center">
-  <img src="https://media.giphy.com/media/16aAA1d8eJPRPpxkeN/giphy.gif" height="150" alt="Pizza GIF"/>
-  <img src="https://media.giphy.com/media/l0NwKAlZzS9yxgyz2/giphy.gif" height="150" alt="Windsurfing GIF"/>
+  <!-- Pizza dog ♥ -->
+  <img src="https://media.giphy.com/media/9fuvOqZ8tbZOU/giphy.gif" height="150" alt="Pizza GIF"/>
+  <!-- High-jump windsurf -->
+  <img src="https://media.giphy.com/media/inYDrqdxBSCvC/giphy.gif" height="150" alt="Windsurfing GIF"/>
 </div>
 
 ### 📫 Find me online
