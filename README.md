@@ -43,9 +43,9 @@
 ### 🍕 & 🌊 When I’m not coding
 <div align="center">
   <!-- Pizza dog ♥ -->
-  <img src="https://media.giphy.com/media/9fuvOqZ8tbZOU/giphy.gif" height="150" alt="Pizza GIF"/>
+  <img src="https://i.giphy.com/media/9fuvOqZ8tbZOU/giphy.gif" height="150" alt="Pizza GIF"/>
   <!-- High-jump windsurf -->
-  <img src="https://media.giphy.com/media/inYDrqdxBSCvC/giphy.gif" height="150" alt="Windsurfing GIF"/>
+  <img src="https://i.giphy.com/media/inYDrqdxBSCvC/giphy.gif" height="150" alt="Windsurfing GIF"/>
 </div>
 
 ### 📫 Find me online
