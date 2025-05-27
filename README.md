@@ -43,7 +43,7 @@
 ### 🍕 & 🌊 When I’m not coding
 <div align="center">
   <img src="./pizza.gif"    height="150" alt="Pizza GIF"/>
-  <img src="./windsurf.gif" height="150" alt="Windsurfing GIF"/>
+  <img src="./windsurfing.gif" height="150" alt="Windsurfing GIF"/>
 </div>
 
 ### 📫 Find me online
