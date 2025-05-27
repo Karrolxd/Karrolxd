@@ -1,16 +1,56 @@
-## Hi there 👋
+<!-- ──────────────────────────────────────────────────────────────── -->
+<!-- Profile Header -->
+<h1 align="center">
+  Hey there, I'm <span style="color:#F97316;">Karol</span> 🔥
+</h1>
+<p align="center">
+  🇵🇱 High-school student • PHP / Laravel aficionado • Sports lover
+</p>
 
-<!--
-**Karrolxd/Karrolxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Tech stack badges -->
+### ⚙️ Tech & Tools  
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![AZ-900](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?logo=microsoft-azure&logoColor=white)
 
-Here are some ideas to get you started:
+<!-- GitHub stats -->
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Karol&show_icons=true&theme=dark&hide_border=true"
+    alt="Karol's GitHub stats"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Karol&theme=dark&hide_border=true"
+    alt="GitHub streak"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karol&layout=compact&theme=dark&hide_border=true"
+    alt="Top languages"
+  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Projects -->
+### 👷‍♂️ Current Projects
+| Project | What’s cooking? | Status |
+|---------|-----------------|--------|
+| **MedTrack** | Web app for tracking medical data & appointments | 🛠 _Active • Link coming soon_ |
+| **Company HR Docs** | Internal platform for HR & document management | 🔬 Prototype |
+
+<!-- (add your repo link)  Replace the underscore in MedTrack row with  -->
+<!--   [**MedTrack**](https://github.com/TWOJ_NICK/medtrack)              -->
+
+<!-- Interests with GIFs -->
+### 🍕 & 🌊 When I’m not coding
+<div align="center">
+  <img src="https://media.giphy.com/media/16aAA1d8eJPRPpxkeN/giphy.gif" height="150" alt="Pizza GIF"/>
+  <img src="https://media.giphy.com/media/l0NwKAlZzS9yxgyz2/giphy.gif" height="150" alt="Windsurfing GIF"/>
+</div>
+
+### 📫 Find me online
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-informational?logo=gmail&logoColor=white)](mailto:YOUR_MAIL_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_HANDLE)
+
+<!-- Feel free to add more social badges above! -->
+
+<!-- ──────────────────────────────────────────────────────────────── -->
