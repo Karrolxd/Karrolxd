@@ -48,8 +48,8 @@
 </div>
 
 ### 📫 Find me online
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-informational?logo=gmail&logoColor=white)](mailto:YOUR_MAIL_HERE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_HANDLE)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-informational?logo=gmail&logoColor=white)](mailto:karol.lucki@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karol-łucki-964937336)
 
 <!-- Feel free to add more social badges above! -->
 
