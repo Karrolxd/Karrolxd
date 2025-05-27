@@ -42,10 +42,8 @@
 <!-- Interests with GIFs -->
 ### 🍕 & 🌊 When I’m not coding
 <div align="center">
-  <img src="./blob/main/pizza.gif"    height="150" alt="Pizza GIF"/>
-  <img src="./blob/main/windsurf.gif" height="150" alt="Windsurfing GIF"/>
-</div>
-
+  <img src="./assets/gif/pizza.gif"    height="150" alt="Pizza GIF"/>
+  <img src="./assets/gif/windsurf.gif" height="150" alt="Windsurfing GIF"/>
 </div>
 
 ### 📫 Find me online
