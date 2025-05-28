@@ -21,7 +21,7 @@
     alt="Karol's GitHub stats"
   />
   <img
-    
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Karrolxd&theme=dark&hide_border=true"
     alt="GitHub streak"
   />
   <img
