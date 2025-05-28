@@ -35,7 +35,7 @@
 | Project | What’s cooking? | Status |
 |---------|-----------------|--------|
 | **MedTrack** | Web app for tracking medical data & appointments | 🛠 _Active • [**MedTrack**](https://github.com/Karrolxd/MedTrack) |
-| **Company HR Docs** | Internal platform for HR & document management | 🔬 Prototype |
+| **Company HR Docs** | Internal platform for HR & document management | 🔬 InProgress |
 | **Pixel-Positions** | Job-board profile where I’m sharpening Laravel & PHP skills | 🌱 _Learning • [**Pixel-Positions**](https://github.com/Karrolxd/pixel-positions) |
 
 
