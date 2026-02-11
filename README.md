@@ -1,55 +1,66 @@
-<!-- ──────────────────────────────────────────────────────────────── -->
-<!-- Profile Header -->
 <h1 align="center">
-  Hey there, I'm <span style="color:#F97316;">Karol</span> 🔥
+  Hi there, I'm <span style="color:#3776AB;">Karol</span> 👋
 </h1>
+
 <p align="center">
-  🇵🇱 High-school student • PHP / Laravel aficionado • Sports lover
+  <b>Final-year Technical High School Student 🇵🇱 • Aspiring Python Developer</b>
 </p>
 
-<!-- Tech stack badges -->
-### ⚙️ Tech & Tools  
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![AZ-900](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?logo=microsoft-azure&logoColor=white)
+<p align="center">
+  I am currently in my 5th year of technical high school (Technikum), preparing for my final exams and professional career.
+  <br> 
+  My main focus right now is mastering <b>Python</b> to build efficient backend applications and automation tools.
+</p>
 
-<!-- GitHub stats -->
+---
+
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Karrolxd&show_icons=true&theme=dark&hide_border=true"
-    alt="Karol's GitHub stats"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Karrolxd&theme=dark&hide_border=true"
-    alt="GitHub streak"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karrolxd&layout=compact&theme=dark&hide_border=true"
-    alt="Top languages"
-  />
+  <h3>🛠️ Tech & Tools</h3>
+  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </div>
 
-<!-- Projects -->
-### 👷‍♂️ Current Projects
-| Project | What’s cooking? | Status |
-|---------|-----------------|--------|
-| **MedTrack** | Web app for tracking medical data & appointments | 🛠 _WorkingOn • [**MedTrack**](https://github.com/Karrolxd/MedTrack) |
-| **Company HR Docs** | Internal platform for HR & document management | 🔬 _InProgress |
-| **Pixel-Positions** | Job-board profile where I’m sharpening Laravel & PHP skills | 🌱 _Learning • [**Pixel-Positions**](https://github.com/Karrolxd/pixel-positions) |
+<br>
 
+### 🚀 Python Projects
+I'm building my portfolio here.
 
-<!-- Interests with GIFs -->
-### 🍕 & 🌊 When I’m not coding
+| Project Name | Description | Tech Stack | Code |
+| :--- | :--- | :--- | :---: |
+| **[Coming Soon]** | *Working on my first major Python project.* | `Python` | [Soon](#) |
+| **[Project Name]** | *A brief description of what this tool does.* | `Library` | [Link](#) |
+
+---
+
 <div align="center">
-  <img src="./pizza.gif"    height="150" alt="Pizza GIF"/>
-  <img src="./windsurfing.gif" height="150" alt="Windsurfing GIF"/>
+  <h3>📊 GitHub Stats</h3>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Karrolxd&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Karol's Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karrolxd&layout=compact&theme=dracula&hide_border=true&hide=php,blade,html,css,scss" alt="Top Languages" />
 </div>
 
-### 📫 Find me online
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-informational?logo=gmail&logoColor=white)](mailto:karol.lucki@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karol-łucki-964937336)
+---
 
-<!-- Feel free to add more social badges above! -->
+### ⚡ When I'm not coding
+<div align="center">
+  <a href="https://giphy.com/gifs/pizza-cheese-pepperoni-3o7aCS5t0iK4k2M9pK">
+    <img src="https://media.giphy.com/media/3o7aCS5t0iK4k2M9pK/giphy.gif" height="130" alt="Pizza" />
+  </a>
+  <a href="https://giphy.com/gifs/redbull-surfing-big-wave-l41m5h1d8d8WnNqQE">
+    <img src="https://media.giphy.com/media/l41m5h1d8d8WnNqQE/giphy.gif" height="130" alt="Sport" />
+  </a>
+</div>
 
-<!-- ──────────────────────────────────────────────────────────────── -->
+<div align="center">
+  <br>
+  <a href="mailto:karol.lucki@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/karol-łucki-964937336">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
