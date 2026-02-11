@@ -48,10 +48,10 @@ I'm building my portfolio here.
 ### ⚡ When I'm not coding
 <div align="center">
   <a href="https://giphy.com/gifs/pizza-cheese-pepperoni-3o7aCS5t0iK4k2M9pK">
-    <img src="https://media.giphy.com/media/3o7aCS5t0iK4k2M9pK/giphy.gif" height="130" alt="Pizza" />
+    <img src="./pizza.gif"    height="150" alt="Pizza GIF"/>
   </a>
   <a href="https://giphy.com/gifs/redbull-surfing-big-wave-l41m5h1d8d8WnNqQE">
-    <img src="https://media.giphy.com/media/l41m5h1d8d8WnNqQE/giphy.gif" height="130" alt="Sport" />
+    <img src="./windsurfing.gif" height="150" alt="Windsurfing GIF"/>
   </a>
 </div>
 
