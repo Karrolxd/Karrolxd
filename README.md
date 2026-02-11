@@ -18,9 +18,8 @@
   <h3>🛠️ Tech & Tools</h3>
   
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-AZ--900-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure AZ-900" />
 </div>
 
 <br>
@@ -39,7 +38,7 @@ I'm building my portfolio here.
   <h3>📊 GitHub Stats</h3>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Karrolxd&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Karol's Stats" />
-  <br><br>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karrolxd&layout=compact&theme=dracula&hide_border=true&hide=php,blade,html,css,scss" alt="Top Languages" />
 </div>
 
