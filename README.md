@@ -29,8 +29,7 @@ I'm building my portfolio here.
 
 | Project Name | Description | Tech Stack | Code |
 | :--- | :--- | :--- | :---: |
-| **[Coming Soon]** | *Working on my first major Python project.* | `Python` | [Soon](#) |
-| **[Project Name]** | *A brief description of what this tool does.* | `Library` | [Link](#) |
+| **AI CV Builder** | *The backend of a FastAPI-based application that automatically extracts text from PDF files and uses artificial intelligence (OpenAI) to generate professional, modern resumes.* | `Python`, `FastAPI` | [Soon](#) |
 
 ---
 
