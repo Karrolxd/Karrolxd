@@ -40,7 +40,7 @@
 | :--- | :--- | :--- | :---: |
 | **Platforma Rekrutacyjna** | *Full recruitment platform — job listings, applications, candidate management and admin dashboard. Fully containerized with a CI/CD pipeline.* | `Next.js` `TypeScript` `Tailwind` `FastAPI` `PostgreSQL` `Docker` `GitHub Actions` | [Soon](#) |
 | **AI CV Builder API** | *REST API that extracts text from uploaded PDF files and uses AI to generate professional, tailored resumes. Built with async FastAPI and SQLAlchemy.* | `FastAPI` `Pydantic v2` `Google Gemini` `SQLAlchemy` | [Soon](#) |
-| **Car Valuation Model** | *Machine learning model trained on scraped car listings to predict used car prices. Includes feature engineering and XGBoost regression.* | `Python` `XGBoost` `scikit-learn` `pandas` | [GitHub](https://github.com/Karrolxd/car-valuator) |
+| **Car Valuation Model** | *Machine learning model trained on scraped car listings to predict used car prices. Includes feature engineering and XGBoost regression.* | `Python` `XGBoost` `scikit-learn` `pandas` | [GitHub](https://github.com/Karrolxd/car-valuator) · [Live API](https://car-valuator.onrender.com/) |
 
 ---
 
